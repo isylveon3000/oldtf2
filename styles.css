@@ -4,6 +4,8 @@ body {
   color: #C3B1E1;
 }
 img {
+  display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
 }
