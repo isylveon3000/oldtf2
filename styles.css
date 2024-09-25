@@ -4,5 +4,6 @@ body {
   color: #C3B1E1;
 }
 img {
-  align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
