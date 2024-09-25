@@ -1,5 +1,6 @@
 body {
-  background-color: #FAC898;
+  text-stroke-color: #FAC898;
+  text-stroke-width: 5px;
   font-family: Arial;
   color: #FF69B4;
   text-align: center;
