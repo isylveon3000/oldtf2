@@ -36,8 +36,7 @@ line-height:23pt;
 color: #E71A91;
 margin:0px 0px 6px 0px;
 letter-spacing:-1px;
--webkit-text-stroke-color: #F7E1BF;
--webkit-text-stroke-width: 2px;
+text-shadow: 0px 0px 0px #F7E1BF;
 }
 
 #container .subtitle {
